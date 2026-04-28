@@ -1,9 +1,6 @@
 # Todo Tracker - Smart Task Management App
 
 A clean, modern full-stack Todo application that helps users manage tasks efficiently with a smooth UI, powerful backend, and essential productivity features.
-
-![Todo App](https://images.pexels.com/photos/7718755/pexels-photo-7718755.jpeg)
-
 ---
 
 ## Core Features
@@ -175,8 +172,10 @@ http://localhost:3000
 * User authentication (JWT)
 * Task priorities
 * Due dates & reminders
+* Calender update
+* Charts for comparisions
 * Drag-and-drop task ordering
-* Deployment (Render / Vercel)
+* Deployment
 * Notifications system
 
 ---
