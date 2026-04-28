@@ -30,7 +30,10 @@ A clean, modern full-stack Todo application that helps users manage tasks effici
 
 ---
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 37f22f222a3f310d0523233ddb3b491a3c6009af
 ## Backend Capabilities
 
 * **RESTful API** - Clean and structured API design
